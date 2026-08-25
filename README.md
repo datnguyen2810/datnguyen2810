@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **datnguyen2810/datnguyen2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+# Hi there, I'm Nguyen Xuan Dat 👋
+
+👨‍💻 **IT Student at [Posts and Telecommunications Institute of Technology (PTIT)](https://ptit.edu.vn/)**  
+
+</div>
