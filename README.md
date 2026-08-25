@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-# Hi there, I'm Nguyen Xuan Dat 👋
+Hi there, I'm Nguyen Xuan Dat 👋
 
 👨‍💻 **IT Student at [Posts and Telecommunications Institute of Technology (PTIT)](https://ptit.edu.vn/)**  
 
